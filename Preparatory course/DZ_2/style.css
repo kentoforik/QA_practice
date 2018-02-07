@@ -1,0 +1,8 @@
+td {background-color:hsl(175,80%,90%)}
+
+a:hover  {background:red;
+			color:black}
+
+tr {border-style: ridge;
+    border-width: 5px;
+    border-color: blue}
